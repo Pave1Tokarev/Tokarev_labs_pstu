@@ -1,0 +1,5 @@
+﻿  stack.cpp
+  stackclass.cpp
+  Создание кода...
+C:\Users\Павел\source\repos\stackclass\stackclass\stack.cpp(52): warning C4715: stack::operator[]: значение возвращается не при всех путях выполнения
+  stackclass.vcxproj -> C:\Users\Павел\source\repos\stackclass\x64\Debug\stackclass.exe
