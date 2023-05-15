@@ -1,0 +1,5 @@
+﻿  labclasses13.cpp
+C:\Users\Павел\source\repos\labclasses13\labclasses13\task3.h(28,6): warning C4101: q: неиспользованная локальная переменная
+C:\Users\Павел\source\repos\labclasses13\labclasses13\task3.h(38,6): warning C4101: q: неиспользованная локальная переменная
+C:\Users\Павел\source\repos\labclasses13\labclasses13\task3.h(69,6): warning C4101: q: неиспользованная локальная переменная
+  labclasses13.vcxproj -> C:\Users\Павел\source\repos\labclasses13\x64\Debug\labclasses13.exe
