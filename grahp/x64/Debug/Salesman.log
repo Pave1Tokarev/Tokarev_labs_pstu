@@ -1,0 +1,81 @@
+﻿  Graph.cpp
+  Salesman.cpp
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(61,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(132,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(132,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(153,104): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(153,83): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(154,104): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(154,83): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(165,98): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(165,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(168,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(168,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(181,98): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(181,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(234,98): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(234,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(251,98): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(251,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(266,98): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(266,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(185,30): warning C4101: tmp: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\Павел\source\repos\Salesman\Salesman.cpp(57): warning C4715: convertToASCII: значение возвращается не при всех путях выполнения
+  Salesman.vcxproj -> C:\Users\Павел\source\repos\Salesman\x64\Debug\Salesman.exe

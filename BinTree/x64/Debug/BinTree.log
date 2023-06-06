@@ -1,0 +1,34 @@
+﻿  main.cpp
+C:\Users\Павел\source\repos\BinTree\main.cpp(238,82): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\BinTree\main.cpp(238,63): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\BinTree\main.cpp(290,110): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\BinTree\main.cpp(290,89): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\BinTree\main.cpp(291,108): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Павел\source\repos\BinTree\main.cpp(291,87): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Tree.cpp
+  Создание кода...
+  BinTree.vcxproj -> C:\Users\Павел\source\repos\BinTree\x64\Debug\BinTree.exe
